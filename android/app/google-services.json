@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677618359884",
+    "project_id": "tdsservices",
+    "storage_bucket": "tdsservices.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677618359884:android:6eaa3179ac53292aa89ee9",
+        "android_client_info": {
+          "package_name": "com.example.tdsemployer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtckQzomHbF19tRKn0EXU9vvSP2tDWGfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
